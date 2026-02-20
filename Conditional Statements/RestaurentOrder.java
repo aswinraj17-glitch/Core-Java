@@ -65,6 +65,23 @@ public class RestaurentOrder {
         System.out.println("Service Fee : $"+serviceFee);
         System.out.println("Final Amount : $"+finalAmount);
         System.out.println("Kitchen priority : "+KitchenPriority);
+        int estimatedTime=0;
+        if(orderType.equals("Delivery") && KitchenPriority.equals("High")){
+            estimatedTime=25;
+        }
+        else if(orderType.equals("Dine-In") && KitchenPriority.equals("Medium")){
+            estimatedTime=20;
+        }
+        else if(orderType.equals("Take-Out") && KitchenPriority.equals("Low")){
+            estimatedTime=15;
+        }
+        if(orderType.equals("Delivery") && KitchenPriority.equals("High")){
+            estimatedTime=30;
+        }
+        else if(orderType.equals("Dine-In") && KitchenPriority.equals("Medium")){
+            estimatedTime=25;
+        }
+        System.out.println("Estimated Prep Time : "+estimatedTime+ "minutes");
 
 
 
