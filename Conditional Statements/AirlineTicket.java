@@ -65,13 +65,14 @@ public class AirlineTicket {
             pricingCategory="Low Demand";
         }
         double FinalTicketPrice=basePrice*demandmultiplier;
-        System.out.println("Base Price : $"+basePrice);
-        System.out.println("Demand Multiplier : "+demandmultiplier+"x");
-        System.out.println("Final Ticket Price : "+FinalTicketPrice);
-        System.out.println("Pricing Category : "+pricingCategory);
+        System.out.println("Base Price: $"+basePrice);
+        System.out.println("Demand Multiplier: "+demandmultiplier+"x");
+        System.out.println("Final Ticket Price: "+FinalTicketPrice);
+        System.out.println("Pricing Category: "+pricingCategory);
 
         
     
     }
     
 }
+
