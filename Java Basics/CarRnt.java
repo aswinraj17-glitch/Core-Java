@@ -10,6 +10,7 @@ public class CarRnt {
     int maintanence=sc.nextInt();
 
     int profit=(days*rent)+late-fuel-maintanence;
-    System.out.println("Net Profit : "+profit);
+    System.out.println("Net Profit: "+profit);
     }
 }
+
