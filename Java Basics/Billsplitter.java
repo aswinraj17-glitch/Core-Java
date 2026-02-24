@@ -14,8 +14,9 @@ public class Billsplitter {
         double totalamount=total+servicep+gstp;
 
         double split=totalamount/people;
-        System.out.println("Amount Per Person : "+split);
+        System.out.println("Amount Per Person :"+split);
 
     }
     
 }
+
