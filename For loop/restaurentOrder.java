@@ -33,7 +33,8 @@ public class restaurentOrder {
         System.out.println("Subtotal : $"+totalsubtotal);
         System.out.println("Tax (8%) : "+String.format("%.2f", tax));
         System.out.println("Service Charge (10%): "+String.format("%.1f",serviceCharge));
-        System.out.println("Grand Total : $"+String.format("%.2f",grandTotal));
+        System.out.println("Grand Total : $" + String.format("%.2f",grandTotal));
         
     }
 }
+
