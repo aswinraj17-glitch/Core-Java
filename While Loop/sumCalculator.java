@@ -1,0 +1,29 @@
+import java.util.Scanner;
+
+public class sumCalculator {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        // int num=sc.nextInt();
+        int sum=0;
+        int count=0;
+        boolean flag = true;
+        while(true){
+            System.out.print("Enter number (0 to stop) : ");
+             int num=sc.nextInt();
+             if(num == 0){
+                flag = false;
+                break;
+             }else{
+                flag=true;
+            }
+            
+            sum+=num;
+            count++;
+        }
+        
+        System.out.println("Total sum = "+sum);
+        System.out.println("Count : "+count);
+        
+    }
+    
+}
