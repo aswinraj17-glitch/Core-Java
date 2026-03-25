@@ -35,6 +35,7 @@ public class program10 {
         System.out.println("Average Response : "+String.format("%.2f", avg)+"ms");
         System.out.println("Slow Servers(> 200ms) : "+count);
         System.out.println("Performance Score : "+String.format("%.2f", percentage)+"%");
+        sc.close();
         
 
 
