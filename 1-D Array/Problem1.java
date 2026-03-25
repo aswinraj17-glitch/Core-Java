@@ -24,6 +24,7 @@ public class Problem1{
         System.out.println("Average Salary : "+String.format("%.2f", average));
         System.out.println("Employees Above Average : "+count);
         System.out.println("Percentage : "+String.format("%.2f", percentage)+"%");
+        sc.close();
     }
 
 }
