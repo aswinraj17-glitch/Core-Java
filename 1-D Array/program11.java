@@ -38,6 +38,7 @@ public class program11 {
        System.out.println("Total Portfolio Value : $"+total);
        System.out.println("Most Valuable Asset : Asset "+(maxindex+1)+" ($"+String.format("%.2f", max)+")");
        System.out.println("Least Valuable Asset : Asset "+(minindex+1)+" ($"+String.format("%.2f", min)+")");
+        sc.close();
 
     
 
