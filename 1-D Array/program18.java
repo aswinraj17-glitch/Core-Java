@@ -44,7 +44,7 @@ public class program18 {
             }
         }
         System.out.print("]");
-        sc.close();
+       
     
     }
     
