@@ -22,7 +22,7 @@ public class Collatzsequence {
         System.out.println("1");
         System.out.println("Steps : "+count);
     }
-
+    sc.close();
     }
-    
+
 }
