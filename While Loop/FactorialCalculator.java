@@ -13,7 +13,7 @@ public class FactorialCalculator {
 
         }
         System.out.println("Factorial of "+num+" = "+fact);
-        
+            sc.close();
         }
     }
     
