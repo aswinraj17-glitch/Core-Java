@@ -39,7 +39,7 @@ public class problem2 {
                 result = "Weak";
 
             System.out.println((i + 1) + ". " + password + " - " + result);
-            sc.close();
+            
         }
     }
 }
