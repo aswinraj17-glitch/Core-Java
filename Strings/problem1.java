@@ -27,6 +27,7 @@ public class problem1 {
 
         System.out.println("Total Valid: " + validCount);
         System.out.println("Total Invalid: " + invalidCount);
+        sc.close();
     }
 
     public static boolean isValidEmail(String email) {
