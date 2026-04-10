@@ -37,7 +37,7 @@ public class Problem2 {
 
         }
         System.out.println("]");
-        sc.close();
+        
         
 
     }
