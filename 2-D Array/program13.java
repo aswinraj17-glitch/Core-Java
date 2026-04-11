@@ -50,6 +50,6 @@ public class program13 {
             }
         }
         System.out.println("]");
-        sc.close();
+        
     }
 }
