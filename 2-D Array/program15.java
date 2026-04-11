@@ -31,5 +31,6 @@ public class program15 {
         }
 
         System.out.println("\nTotal Employees: " + totalEmployees);
+        sc.close();
     }
 }
