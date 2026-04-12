@@ -69,6 +69,7 @@ public class AirlineTicket {
         System.out.println("Demand Multiplier: "+demandmultiplier+"x");
         System.out.println("Final Ticket Price: "+FinalTicketPrice);
         System.out.println("Pricing Category: "+pricingCategory);
+        sc.close();
 
         
     
