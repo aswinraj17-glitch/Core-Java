@@ -33,7 +33,5 @@ public class BankLoan {
         } else {
             System.out.println("Decision: Rejected");
         }
-
-        sc.close();
     }
 }
