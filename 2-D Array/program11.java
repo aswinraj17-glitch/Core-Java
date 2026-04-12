@@ -53,7 +53,7 @@ public class program11{
         else{
             System.out.println("Status: Non-Compliant");
         }
-        sc.close();
+        
 
     }
 }
