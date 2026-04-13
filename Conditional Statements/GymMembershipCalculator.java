@@ -83,6 +83,6 @@ public class GymMembershipCalculator {
         System.out.println("Savings vs Month-to-Month: $" + savings);
         System.out.println("Membership Category: " + category);
 
-        sc.close();
+        
     }
 }
