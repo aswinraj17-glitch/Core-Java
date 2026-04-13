@@ -63,6 +63,6 @@ public class HospitalEmergency {
         System.out.println("Estimated Wait Time: " +waitTime + " minutes");
         System.out.println("Recommended Action: " +action);
 
-        sc.close();
+    
     }
 }
