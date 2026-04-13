@@ -88,7 +88,7 @@ public class FoodDelivery {
         System.out.println("Estimated Delivery Time: " + estimatedTime + " minutes");
         System.out.println("Service Priority: " + priority);
 
-        sc.close();
+        
         
 
     }
