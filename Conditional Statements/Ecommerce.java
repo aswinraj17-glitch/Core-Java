@@ -68,6 +68,6 @@ public class Ecommerce {
         System.out.println("Total Discount: "+(int)totalDiscount + "%");
         System.out.println("Final Price: $"+finalPrice);
         System.out.println("Savings: $"+savings);
-        sc.close();
+        
     }
 }
