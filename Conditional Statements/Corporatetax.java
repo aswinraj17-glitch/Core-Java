@@ -72,6 +72,7 @@ public class Corporatetax {
         System.out.println(("Gross Tax : $"+grossTax));
         System.out.println(("Net Tax After Credits $: "+NetTax));
         System.out.printf("Effective Tax Rate : %.1f",Effectiverate,"%");
+        sc.close();
 
 
 
