@@ -102,6 +102,6 @@ public class ElectricityBill {
         System.out.printf("Total Bill: $%.2f\n", finalTotal);
         System.out.printf("Average Rate: $%.2f/kWh\n", averageRate);
 
-        sc.close();
+        
     }
 }
