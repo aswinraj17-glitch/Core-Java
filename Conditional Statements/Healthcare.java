@@ -93,7 +93,7 @@ public class Healthcare {
     System.out.println("Base Premium : $"+amount);
     System.out.println("Risk Surcharge : $"+riskSurchage);
     System.out.println("Total Monthly Premium : $"+totalPremium);
-    sc.close();
+    
         
     }
 }
