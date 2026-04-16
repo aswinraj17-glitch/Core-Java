@@ -40,6 +40,6 @@ public class program12 {
         System.out.println("\nMonthly Total: " + monthly + " mm");
         System.out.println("Driest Week: Week " + (driestWeek + 1) + " (" + weekly[driestWeek] + " mm)");
 
-        sc.close();
+    
     }
 }
