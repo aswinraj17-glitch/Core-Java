@@ -94,6 +94,7 @@ public class HotelRoom {
         System.out.println("Nightly Rate : $"+seasonalrate);
         System.out.println("Total Booking Cost : $"+totalCost);
         System.out.println("Complimentary Upgrades : "+upgrades);
+        sc.close();
         
 
 
