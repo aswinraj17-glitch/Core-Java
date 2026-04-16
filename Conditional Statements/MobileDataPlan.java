@@ -108,6 +108,6 @@ public class MobileDataPlan {
         System.out.println("Potential Savings: $" + potentialSavings);
         System.out.println("Plan Category: " + planCategory);
 
-        sc.close();
+        
     }
 }
