@@ -133,6 +133,6 @@ public class InvestmentPortfolio {
         System.out.println("Recommendation: " + recommendation);
         System.out.println("Suggested Rebalancing: " + rebalancing);
 
-        sc.close();
+    
     }
 }
