@@ -82,6 +82,7 @@ public class RestaurentOrder {
             estimatedTime=25;
         }
         System.out.println("Estimated Prep Time : "+estimatedTime+ "minutes");
+        sc.close();
 
 
 
