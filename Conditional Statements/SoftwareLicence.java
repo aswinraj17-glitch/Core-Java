@@ -87,6 +87,7 @@ public class SoftwareLicence {
         System.out.println("Total Annual Cost : $"+totalAnual);
         System.out.println("Total Contract Value : $"+contractvalue);
         System.out.println("Pricing Tier : "+pricingTier);
+        sc.close();
         
 
     }
