@@ -75,6 +75,7 @@ public class UniversityScholarship {
 
 System.out.println("Award Amount : $"+awardamount);
 System.out.println("Award Category : "+awardCategory);
+        sc.close();
 
     }
 }
