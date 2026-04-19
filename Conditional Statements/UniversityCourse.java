@@ -97,6 +97,7 @@ public class UniversityCourse {
         System.out.println("Student Activity Fee $: "+activityFee);
         System.out.println("Total Registration Fee $: "+totalFee);
         System.out.println("Fee Category : "+feeCategory);
+        sc.close();
 
 
     }
