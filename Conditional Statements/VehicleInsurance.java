@@ -89,6 +89,7 @@ public class VehicleInsurance {
         System.out.printf("Monthly Premium : %.1f\n",monthlyPremium);
         System.out.printf("Annual Premium : %.1f\n",finalPremium);
         System.out.println("Risk Category: " + riskCategory);
+        sc.close();
 
 
 
