@@ -90,6 +90,6 @@ public class movieTicket {
         System.out.println("Concession Voucher: " + voucher);
         System.out.println("Pricing Category: " + pricingCategory);
 
-        sc.close();
+        
     }
 }
