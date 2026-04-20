@@ -101,6 +101,6 @@ public class parkingFee {
         System.out.println("Daily Cap Applied: " + (dailyCapApplied ? "Yes" : "No"));
         System.out.println("Rate Category: " + rateCategory);
 
-        sc.close();
+        
     }
 }
