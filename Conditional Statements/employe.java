@@ -48,7 +48,7 @@ public class employe {
         System.out.println("Bonus Amount: $" + bonusAmount);
         System.out.println("Status: " + status);
 
-        sc.close();
+        
     }
 }
 
