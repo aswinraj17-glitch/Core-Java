@@ -139,7 +139,7 @@ public class shippingCost {
        System.out.println("Total Shipping Cost : $"+totalCost);
        System.out.println("Estimated Delivery : "+deiverytime+ "business days");
        System.out.println("Service Level : "+serviceLevel);
-       sc.close();
+       
 
 
     }
