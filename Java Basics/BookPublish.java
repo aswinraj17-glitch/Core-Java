@@ -13,6 +13,7 @@ public class BookPublish {
     int profit=(copies*cost)+editting+design-commission-marketing
     ;
     System.out.println("Publishing profit : "+profit);
+        sc close();
     }
     
 }
