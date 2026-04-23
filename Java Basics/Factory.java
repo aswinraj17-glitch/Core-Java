@@ -9,5 +9,6 @@ public record Factory() {
 
         int finall=(rodsPerHour*hoursWorked)+overtimeRods-rejectedRods;
         System.out.println("Usable Rods : "+finall);
+        sc.close();
     }
 }
