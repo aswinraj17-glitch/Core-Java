@@ -10,6 +10,7 @@ public class Hospital9 {
 
         int finalbill=(a*b)+c+d-e;
         System.out.println("Payable Amount : "+finalbill);
+        sc.close();
 
 
     }
