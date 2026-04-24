@@ -11,5 +11,6 @@ public class Software {
 
     int projectcost=(hours*rate)+design+testing-advance;
     System.out.println("Total Transport Fee : "+projectcost);
+    sc.close();
     }
 }
