@@ -12,7 +12,7 @@ public class Worker {
         int detuct=Addbonus-maintenanceCharge;
         System.out.println("Final Weekly Wage : "+detuct);
 
-        
+        sc.close();
     }
     
 }
