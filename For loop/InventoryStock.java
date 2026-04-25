@@ -46,6 +46,7 @@ public class InventoryStock {
         System.out.println("Low Stock Items : "+lowStock);
         System.out.println("Critical Items : "+criticalitems);
         System.out.println("Total Recorder Quantity : "+totalrecordQuantity);
+        sc.close();
     }
     
 }
