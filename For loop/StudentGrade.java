@@ -61,5 +61,6 @@ public class StudentGrade {
         System.out.println("Highest Score : "+Highest);
         System.out.println("Student Passed : "+passcount);
         System.out.println("Students Failed : "+failcount);
+        sc.close();
     }
 }
