@@ -51,6 +51,7 @@ public class EmployeSalary {
         System.out.println("Total Employee : "+n);
         System.out.println("Total Payroll : "+String.format("%.1f",totalpayroll));
         System.out.println("Average salary : $"+ String.format("%.1f", average));
+        sc.close();
 
 
     }
