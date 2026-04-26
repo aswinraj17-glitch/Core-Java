@@ -64,6 +64,7 @@ public class fitnessTracker {
         System.out.println("Total Calories Burned : "+totalCaloriesBurned);
         System.out.println("Average Calories per Session : "+String.format("%.2f",averageCalories));
         System.out.println("Fitness Level : "+fitnessLevel);
+        sc.close();
         
 
     }
