@@ -61,6 +61,7 @@ public class monthlySales {
         System.out.println("Total Sales : $"+totalsales);
         System.out.println("Total Commission : $"+totalcomission);
         System.out.println("Top Performer : "+topPerformer);
+        sc.close();
     }
     
 }
