@@ -56,6 +56,7 @@ public class hotelroom {
         System.out.println("Average Occupancy Rate : "+averageoccupancy+"%");
         System.out.println("Peak Occupancy Day : "+peakoccupancy);
         System.out.println("Days at Full Capacity : "+fullcapacityDays);
+        sc.close();
     }
     
 }
