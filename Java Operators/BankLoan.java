@@ -12,7 +12,7 @@ public class BankLoan {
         }else{
             System.out.println("Loan Rejected");
         }
-        
+        sc.close();
 
         
         
