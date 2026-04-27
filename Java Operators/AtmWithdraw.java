@@ -13,6 +13,7 @@ public class AtmWithdraw {
             System.out.println("Transaction Denied");
 
         }
+          sc.close();
         
         
         }
