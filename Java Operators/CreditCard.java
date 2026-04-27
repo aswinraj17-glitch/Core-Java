@@ -14,7 +14,7 @@ public class CreditCard {
         }else{
             System.out.println("Declined");
         }
-        
+        sc.close();
 
         
         
