@@ -9,7 +9,7 @@ public class DigitSignal {
        int value=SignalValue ^ toggleMask;
        System.out.println("Value = "+value);
 
-       
+       sc.close();
       
 }
 }
