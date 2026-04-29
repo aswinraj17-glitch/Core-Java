@@ -16,7 +16,7 @@ public class Ecommerce {
             System.out.println("shipping chargges applied");
         }
         
-
+sc.close();
         
         
         }
