@@ -12,7 +12,7 @@ public class EmployeeOvertime {
         }
 
         
-        
+        sc.close();
         }
     
 }
