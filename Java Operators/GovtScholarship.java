@@ -12,7 +12,7 @@ public class GovtScholarship {
             System.out.println("Not Granted");
         }
 
-        
+       sc.close(); 
         
         }
 }
