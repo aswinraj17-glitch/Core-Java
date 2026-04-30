@@ -19,6 +19,7 @@ public class OnlineExam {
             System.out.println("FAIL");
         }
         }
+    sc.close();
 
 
         
