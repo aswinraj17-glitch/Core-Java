@@ -8,6 +8,7 @@ public class Securitypermission {
        
        int value=permissionA | permissionB;
        System.out.println("Value = "+value);
+            sc.close();
 
        
       
