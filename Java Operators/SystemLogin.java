@@ -19,7 +19,7 @@ public class SystemLogin {
             System.out.println("Failed");
         }
         
-
+        sc.close();
         
         
         }
