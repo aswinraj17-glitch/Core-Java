@@ -10,7 +10,7 @@ public class WarehouseBox {
         System.out.println("Tottal Capacity : "+capacity);
         
 
-        
+        sc.close();
         
         }
 }
