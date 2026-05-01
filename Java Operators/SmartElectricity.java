@@ -13,6 +13,7 @@ public class SmartElectricity {
        }else{
         System.out.println("Inactive");
        }
+          sc.close();
 
        
       
