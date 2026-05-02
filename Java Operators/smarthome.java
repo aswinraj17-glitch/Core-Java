@@ -17,7 +17,7 @@ public class smarthome {
         }
         
 
-        
+        sc.close();
         
         }
 }
