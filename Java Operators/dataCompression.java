@@ -8,5 +8,6 @@ public class dataCompression {
        
        int compressedsize=filesize>>compression;
        System.out.println("Compressed size : "+ compressedsize);
+       sc.close();
 }
 }
