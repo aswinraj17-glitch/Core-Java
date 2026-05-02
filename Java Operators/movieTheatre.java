@@ -17,7 +17,7 @@ public class movieTheatre {
         }
         
 
-        
+        sc.close();
         
         }
 }
