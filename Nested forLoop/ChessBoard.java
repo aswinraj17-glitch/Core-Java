@@ -14,6 +14,7 @@ public class ChessBoard {
             }
             System.out.println();
         }
+        sc.close();
     }
     
 }
