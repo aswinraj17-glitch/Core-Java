@@ -53,7 +53,7 @@ public class CalenderMonth {
             System.out.println(" ");
         }
 
-       
+       sc.close();
     }
     
 }
