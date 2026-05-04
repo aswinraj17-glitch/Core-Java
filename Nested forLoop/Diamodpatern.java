@@ -19,6 +19,7 @@ public class Diamodpatern {
             }
             System.out.println();
         }
+        sc.close();
     }
     
 }
