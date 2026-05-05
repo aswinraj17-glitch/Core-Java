@@ -26,7 +26,7 @@ public class ExamSeating {
         System.out.println("Occupied Seats : "+num);
         System.out.println("Empty Seats : "+(total-num));
 
-
+        sc.close();
     }
     
 }
