@@ -34,7 +34,7 @@ public class ParkingLot {
         System.out.println("Vacant : "+vacant);
         System.out.println("Occupancy Rate :"+String.format("%.2f", rate));
 
-
+        sc.close();
     
 }
     
