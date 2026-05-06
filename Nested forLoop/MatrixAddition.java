@@ -37,6 +37,7 @@ public class MatrixAddition {
 
             System.out.println();
         }
+        sc.close();
     }
     
 }
