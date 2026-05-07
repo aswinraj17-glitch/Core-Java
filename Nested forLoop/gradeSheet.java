@@ -30,7 +30,7 @@ public class gradeSheet {
         
 
         }
-        
+        sc.close();
 
 
     }
