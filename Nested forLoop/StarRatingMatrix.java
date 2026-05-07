@@ -33,7 +33,7 @@ public class StarRatingMatrix {
         double avg=(double)sum/size;
         System.out.println();
         System.out.println("Average Rating : "+String.format("%.2f", avg));
-
+   b.   sc.close();
     }
     
 }
