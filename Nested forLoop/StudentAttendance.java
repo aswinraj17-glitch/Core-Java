@@ -40,6 +40,7 @@ public class StudentAttendance {
         System.out.println();
         System.out.println("Perfect Attendance : " +perfectAtt+" students ");
         System.out.println();
+        sc.close();
     }
     
 }
