@@ -14,6 +14,7 @@ public class numberPyramid {
             System.out.println();
 
         }
+        sc.close();
     }
     
 }
