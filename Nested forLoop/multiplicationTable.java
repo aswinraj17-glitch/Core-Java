@@ -18,6 +18,7 @@ class multiplicationTable{
             }
             System.out.println();
         }
+        sc.close();
         
     }
     
