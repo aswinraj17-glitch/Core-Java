@@ -12,7 +12,7 @@ public class pascalsPyramid {
             }
             System.out.println();
         }
-        sc.close();
+    
     }
     
 }
