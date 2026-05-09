@@ -33,7 +33,7 @@ public class productprice {
                 }
             }
             System.out.println(String.format("%.2f", min));
-            sc.close();
+            
         }
     }
 }
