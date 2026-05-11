@@ -19,6 +19,7 @@ public class seatingArrangement {
         
             System.out.println();
         }
+        sc.close();
 
     }
     
