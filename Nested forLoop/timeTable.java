@@ -28,6 +28,7 @@ public class timeTable {
             }
             System.out.println();
         }
-
+        sc.close();
+    
     }
 }
