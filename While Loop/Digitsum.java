@@ -15,7 +15,8 @@ public class Digitsum {
         }while(num>0);
         System.out.println("Sum of Digits : "+sum);
 
-    sc.close();
+
+        
 
     }
     
