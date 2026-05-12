@@ -17,7 +17,7 @@ public class Digitsum {
 
 
         
-
+        sc.close();
     }
     
 }
