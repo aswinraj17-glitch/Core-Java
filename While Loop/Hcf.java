@@ -16,6 +16,7 @@ public class Hcf {
             i++;
         }
         System.out.println("HCF of "+temp1+" and "+temp2+" = "+hcf);
+        sc.close();
     }
     
 }
