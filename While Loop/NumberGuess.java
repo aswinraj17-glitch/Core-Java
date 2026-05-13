@@ -27,6 +27,7 @@ public class NumberGuess {
 
         }
         System.out.println("Correct Attempt : "+correctattempt);
+        sc.close();
     }
     
 }
