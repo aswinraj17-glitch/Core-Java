@@ -32,7 +32,7 @@ public class atmWithdrawal {
         }while(true);
 
 
-        
+        sc.close();
 
     }
     
