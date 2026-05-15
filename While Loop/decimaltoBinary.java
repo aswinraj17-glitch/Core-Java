@@ -16,6 +16,7 @@ public class decimaltoBinary {
             
         }
         System.out.println("Binary : "+binary);
+        sc.close();
     }
     
 }
