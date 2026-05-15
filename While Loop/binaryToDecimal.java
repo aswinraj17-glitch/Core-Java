@@ -14,7 +14,7 @@ public class binaryToDecimal {
             power++;
         }
         System.out.println("Decimal : "+decimal);
-
+        sc.close();
     }
     
 }
