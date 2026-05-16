@@ -48,6 +48,7 @@ public class menuDriven {
             }
                System.out.println("Result : "+result);     
         }while(flag);
+        sc.close();
         
     }
     
