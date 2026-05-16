@@ -14,7 +14,7 @@ public class lcm {
             
         }
         System.out.println("LCM of "+c+" and "+d+" = "+(c*d/a));
-
+        sc.close();
     }
     
 }
