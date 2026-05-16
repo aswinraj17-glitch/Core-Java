@@ -15,6 +15,7 @@ public class gcd {
             
         }
         System.out.println("GCD of "+c+ " and "+d+" = "+a);
+        sc.close();
          
     }
     
