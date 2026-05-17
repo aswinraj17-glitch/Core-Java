@@ -16,6 +16,7 @@ public class numberpattern {
             
 
         }while(i<=n);
+        sc.close();
     }
     
 }
