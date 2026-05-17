@@ -19,5 +19,6 @@ public class multiplicationTable {
             flag=false;
 
         }while(flag);
+        sc.close();
     }
 }
