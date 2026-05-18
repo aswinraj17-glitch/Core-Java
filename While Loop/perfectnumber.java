@@ -19,6 +19,7 @@ public class perfectnumber {
         }else{
             System.out.println(n+ " is not a perfect number");
         }
+        sc.close();
 
     }
     
