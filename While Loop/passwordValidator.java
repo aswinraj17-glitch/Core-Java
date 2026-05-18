@@ -25,6 +25,6 @@ public class passwordValidator{
         if(!login){
             System.out.println("Account locked");
         }
-        sc.close();
+        
     }
 }
