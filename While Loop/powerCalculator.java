@@ -14,6 +14,7 @@ public class powerCalculator {
 
         }
         System.out.println(base+" ^ "+exponent+" = "+result);
+        sc.close();
     }
     
 }
