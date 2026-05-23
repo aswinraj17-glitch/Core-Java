@@ -23,7 +23,7 @@ public class sumCalculator {
         
         System.out.println("Total sum = "+sum);
         System.out.println("Count : "+count);
-        
+        sc.close();
     }
     
 }
