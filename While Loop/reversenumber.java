@@ -15,6 +15,7 @@ public class reversenumber {
         }
         System.out.println("Original : "+temp);
         System.out.println("Reversed : "+rev);
+        sc.close();
     }
     
 }
