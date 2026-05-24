@@ -18,7 +18,7 @@ public class vowelcount {
         }while(i<len);
         System.out.println("Vowel count : "+count);
 
-
+        sc.close();
     }
     
 }
