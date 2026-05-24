@@ -15,7 +15,7 @@ public class sumOfEven {
             a++;
         }
         System.out.println("Sum of even numbers from "+temp+" to "+b+" : "+sum);
-
+        sc.close();
     }
     
 }
