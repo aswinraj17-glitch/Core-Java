@@ -29,3 +29,4 @@ public  class DuplicateNum {
         sc.close();
     }
 }
+// Sep 24 HashMap practice
