@@ -21,3 +21,4 @@ public class freq{
         sc.close();
     }
 }
+// Sep 25 HashMap practice
