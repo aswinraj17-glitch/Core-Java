@@ -31,3 +31,4 @@ public class NonRepeatingChar {
     }
     
 }
+// Sep 26 HashMap practice

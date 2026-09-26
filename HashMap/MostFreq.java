@@ -41,3 +41,4 @@ public class MostFreq {
         sc.close();
     }
 }
+// Sep 26 HashMap practice
